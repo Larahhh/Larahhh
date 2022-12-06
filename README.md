@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/larah-beatriz-vasconcelos-5b06651b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
-
+ ![Snake animation](https://github.com/Larahh/Larahhh/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
