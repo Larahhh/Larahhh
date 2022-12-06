@@ -26,8 +26,7 @@
   <a href = "mailto:limalarah59@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/larah-beatriz-vasconcelos-5b06651b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-<p align="center"> Contador de visitas </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Larahhh/count.svg" /></p>
+
 
  
 </div>
